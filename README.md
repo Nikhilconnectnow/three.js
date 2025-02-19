@@ -2,6 +2,9 @@
 
 This is a simple Three.js project that renders a rotating 3D cube in the browser.
 
+![Screenshot 2025-02-19 104230](https://github.com/user-attachments/assets/d9d2bfe3-d348-4848-8c06-0ef91372ac99)
+
+
 ## Features
 - Uses **Three.js** for 3D rendering.
 - Displays a red rotating cube.
